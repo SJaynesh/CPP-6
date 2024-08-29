@@ -12,6 +12,7 @@ private:
     int age;
 
 public:
+   
     // Setter == Input
     void setStudentData(int rollNo, char name[], double per, int age)
     {

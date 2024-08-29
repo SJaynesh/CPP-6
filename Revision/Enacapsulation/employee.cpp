@@ -70,7 +70,7 @@ int main()
     cout << "Enter number of employees : ";
     cin >> size;
     // Objetc Array == Array of Object
-    Employee e1[100];
+    Employee e1[size];
 
     Employee emp1;
     // 56 * 100 = 5600 bytes
